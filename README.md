@@ -2,4 +2,4 @@
 <p align="center">
    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serapckrkc&show_icons=true&locale=en&layout=compact" alt="serapckrkc" /></p>
+<p align="center" style="background:#000;"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=serapckrkc&show_icons=true&locale=en&layout=compact" alt="serapckrkc" /></p>
